@@ -1,9 +1,3 @@
-# COSC1519 Introduction to Programming
-# Student name: Prottay Karim
-# Student number: S3822620
-# Practical group:
-# Friday 2:30pm (online)
-
 # Game Introduction
 # Declaring variables used later in game
 player_health = 10
