@@ -1,4 +1,4 @@
 # text_based_python_game
-Text based game written in python
+Text based pirate game written in python
 This project demonstrates a basic understanding of python3 
 syntax, conditonals and loops.
