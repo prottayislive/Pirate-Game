@@ -17,7 +17,7 @@ elif age < 7:
 elif age < 15.5:
     print("Hope you like this game")
 elif age > 15.5:
-    print("Aren't you a bit old to play this game?")
+    print("Aren't you a bit old too play this game?")
 else:
     question = input("Are you a robot?(Y/N").lower().strip()
     if question == 'n':
